@@ -16,4 +16,4 @@ to work off of main/master  branch
 13. git branch - will list all local branches.local branches will be green in color (branch with * - you are currently in that branch)
 13. git branch -a  - will list all local branches - remote branches will be red in color ( if you are using gitBash)
 14. Learn git diff to know differences betweeen files in remote and local or local main or branch
-
+15. git diff main steps -- com/code
