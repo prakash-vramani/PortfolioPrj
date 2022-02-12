@@ -1,0 +1,19 @@
+1. git clone URL ( from gitHub ore some other repo)
+2. git branch 'name of branch'  - this creates a new branch as we dont want
+to work off of main/master  branch
+3. git checkout 'name of branch' - gets all content from main/master to that branch
+   and  moves the user to that branch
+4. make changes to files are add new files.
+5. git status  - this will tell you what files have changed and needs to to added to staging area
+6. git add -A ( for all files) or    git add 'name of file' to add specific file
+. git status - will tell files that have been added to staging area and needs to commited
+7. git commit -m 'commit message'
+8. git checkout main - will move the user to main branch
+9. git pull origin main  - this will get all the latest content from remote repo
+10. git merge 'name of branch' - will move the changes from the 'name of branch'  to main
+11. git push origin main - will push all the changes from local along with the remote changes to remote repo
+12. git branch -d 'name of branch' - will delete the branch that was created
+13. git branch - will list all local branches.local branches will be green in color (branch with * - you are currently in that branch)
+13. git branch -a  - will list all local branches - remote branches will be red in color ( if you are using gitBash)
+14. Learn git diff to know differences betweeen files in remote and local or local main or branch
+
